@@ -1,0 +1,23 @@
+Homework assignment 2 
+Chapter 3
+
+Problem 1
+3.16
+Which combinations of attributes have to be unique for each individual SECTION entity in the UNIVERSITY database shown in Figure 3.20 to enforce each of the following miniworld constraints:
+a. During a particular semester and year, only one section can use a particular classroom at a particular DaysTime value
+b. During a particular semester and year, an instructor can teach only one
+section at a particular DaysTime value.
+c. During a particular semester and year, the section numbers for sections offered for the same course must all be different.
+d. Can you think of any other similar constraints?
+
+
+Problem 2
+Show an alternative design for the attribute described in Exercise 3.17
+that uses only entity types (including weak entity types, if needed) and relationship types. (This is a continuation from problem 3 from the homework assignment 1)
+
+
+Problem 3
+Consider the ER diagram in Figure 3.23. Assume that an employee may work in up to two departments or may not be assigned to any department.
+
+Assume that each department must have one and may have up to three phone numbers. Supply (min, max) constraints on this diagram. State clearly
+any additional assumptions you make. Under what conditions would the relationship HAS_PHONE be redundant in this example?
