@@ -1,0 +1,21 @@
+ Homework assignment 1 Chapter 3
+1. Define the following terms: entity, attribute, attribute value, relationship instance, composite attribute, multivalued attribute, derived attribute, complex attribute, key attribute, and value set (domain).
+
+
+2. When is the concept of a weak entity used in data modeling? Define the terms owner entity type, weak entity type, identifying relationship type, and partial key.
+
+
+3. Composite and multivalued attributes can be nested to any number of levels. Suppose we want to design an attribute for a STUDENT entity type to
+keep track of previous college education. Such an attribute will have one
+entry for each college previously attended, and each such entry will be composed
+of college name, start and end dates, degree entries (degrees awarded
+at that college, if any), and transcript entries (courses completed at that college, if any). Each degree entry contains the degree name and the month and
+year the degree was awarded, and each transcript entry contains a course name, semester, year, and grade. Design an attribute to hold this information. Use the conventions in Figure 3.5.
+
+
+4. Consider the ER diagram shown in Figure 3.22 for part of a BANK database. Each bank can have multiple branches, and each branch can have multiple accounts and loans.
+a. List the strong (nonweak) entity types in the ER diagram.
+b. Is there a weak entity type? If so, give its name, partial key, and identifying relationship.
+c. What constraints do the partial key and the identifying relationship of the weak entity type specify in this diagram?
+d. List the names of all relationship types, and specify the (min, max) constraint on each participation of an entity type in a relationship type. Justify your choices.
+e. List concisely the user requirements that led to this ER schema design. f. Suppose that every customer must have at least one account but is restricted to at most two loans at a time, and that a bank branch cannot have more than 1,000 loans. How does this show up on the (min, max) constraints?
