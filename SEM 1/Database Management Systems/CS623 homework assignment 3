@@ -1,0 +1,31 @@
+Homework assignment 3
+Topic: Entity Model, relational database
+
+
+1.	The Jonesburgh County Basketball Conference (JCBC) is an amateur basketball association. Each city in the county has one team as its representative. Each team has a maximum of 12 players and a minimum of 9 players. Each team also has up to 3 coaches (offensive, defensive, and physical training coaches). During the season, each team plays 2 games (home and visitor) against each of the other teams. Given those conditions, do the following:
+•	Identify the connectivity of each relationship.
+•	Identify the type of dependency that exists between CITY and TEAM.
+•	Identify the cardinality between teams and players and between teams and city.
+•	Identify the dependency between COACH and TEAM and between TEAM and PLAYER.
+•	Draw the Chen and Crow’s Foot ERDs to represent the JCBC database.
+
+
+
+
+
+
+2.
+
+Create a Crow’s Foot notation ERD to support the following business operations:
+•	A friend of yours has opened Professional Electronics and Repairs (PEAR) to repair smartphones, laptops, tablets, and MP3 players. She wants you to create a database to help her run her business. 
+•	When a customer brings a device to PEAR for repair, data must be recorded about the customer, the device, and the repair. The customer’s name, address, and a contact phone number must be recorded (if the customer has used the shop before, the information already in the system for the customer is verified as being current). For the device to be repaired, the type of device, model, and serial number are recorded (or verified if the device is already in the system). Only customers who have brought devices into PEAR for repair will be included in this system. 
+•	Because a customer might sell an older device to someone else who then brings the device to PEAR for repair, it is possible for a device to be brought in for repair by more than one customer. However, each repair is associated with only one customer. When a customer brings in a device to be fixed, it is referred to as a repair request, or just “repair,” for short. Each repair request is given a reference number, which is recorded in the system along with the date of the request, and a description of the problem(s) that the customer wants fixed. It is possible for a device to be brought to the shop for repair many different times, and only devices that are brought in for repair are recorded in the system. Each repair request is for the repair of one and only one device. If a customer needs multiple devices fixed, then each device will require its own repair request. 
+•	There are a limited number of repair services that PEAR can perform. For each repair service, there is a service ID number, description, and charge. “Charge” is how much the customer is charged for the shop to perform the service, including any parts used. The actual repair of a device is the performance of the services necessary to address the problems described by the customer. Completing a repair request may require the performance of many services. Each service can be performed many different times during the repair of different devices, but each service will be performed only once during a given repair request. 
+•	All repairs eventually require the performance of at least one service, but which services will be required may not be known at the time the repair request is made. It is possible for services to be available at PEAR but that have never been required in performing any repair. 
+•	Some services involve only labor activities and no parts are required, but most services require the replacement of one or more parts. The quantity of each part required in the performance of each service should also be recorded. For each part, the part number, part description, quantity in stock, and cost is recorded in the system. The cost indicated is the amount that PEAR pays for the part. Some parts may be used in more than one service, but each part is required for at least one service.
+
+
+
+3.
+What two conditions must be met before an entity can be classified as a weak entity? Give an example of a weak entity.
+
