@@ -1,0 +1,110 @@
+Hi, my name is Sajan Singh Shergill. I am working on a Master’s degree in Data Science with a strong interest in Data Analysis and Machine Learning and will graduate in May 2026. 
+I became interested in this field when I was working as a Software Developer in Test. Since then, I have completed projects in which I was responsible for automating business website of my previous organization known as ‘Wizr’, and secondly I was held as one of managing leaders of the Quality Assurance team responsible for a release of a new model of my organization called ‘Stride’.
+I also participated in an internship where my roles was a Quality Assurance Engineer who analyzes test results, preparing reports on all aspects of the software testing which resulted in improved workflow efficiency by 25% and faciliated to the company's upskilling culture.
+These experiences helped me develop __. 
+Now, I am interested in pursuing a career in Data Science and Machine Learning/ an internship in which I can devote and deepen my skills in /learning about_
+“””
+
+General Background and Experience
+1. Professional Journey I started my career in quality assurance, where I developed strong analytical skills and a deep understanding of software testing and automation. While working on projects involving customer data and operational workflows, I became passionate about deriving insights from data, which led me to pursue an MS in Data Science. This transition allows me to merge my technical background with data-driven decision-making skills.
+2. Motivation for Transition My QA roles often required analyzing patterns in software behavior and efficiency. This piqued my interest in data science as it offers broader applications to solve business problems. Pursuing my MS allows me to refine these skills and apply them to more strategic challenges like predictive modeling and data visualization.
+3. Translating QA to Data Science My QA experience taught me attention to detail, problem-solving, and the ability to work with complex systems—skills critical for data science. For instance, automating workflows with Selenium mirrors the logic and structure required for writing efficient Python scripts for data analysis.
+
+Technical Skills
+1. Experience with Python Libraries I used Pandas and NumPy extensively during projects like the BCG Data Science Simulation. For example, I cleaned and transformed customer datasets to prepare them for modeling. These tools helped streamline preprocessing, saving time while improving accuracy.
+2. Machine Learning Algorithms I find Random Forest effective for customer churn prediction due to its robustness in handling imbalanced data and its ability to capture complex relationships. During the BCG project, its flexibility and interpretability proved invaluable in achieving an 85% accuracy.
+3. SQL and Database Management In my role at Eduvanz, I wrote complex SQL queries to extract insights from Salesforce LMS. For example, I identified bottlenecks in loan application processes by analyzing user activity data, which informed workflow optimizations.
+
+Projects
+1. BCG Data Science Simulation The 85% accuracy was achieved by fine-tuning hyperparameters and feature engineering. A challenge I faced was handling class imbalance in churn data, which I resolved using SMOTE (Synthetic Minority Oversampling Technique).
+2. Quantium Data Analytics Simulation I identified benchmark stores by analyzing sales patterns, transaction volumes, and demographic similarity. This analysis involved clustering techniques, which provided a robust basis for testing trial store layouts.
+3. Customer Churn Analysis Creativity was required in designing a feature engineering pipeline. For instance, I created time-based features from transaction histories, which revealed seasonality trends impacting churn behavior.
+
+Professional Experience
+1. Operational Efficiency at Eduvanz I increased efficiency by introducing automated test scripts that replaced manual testing for repetitive tasks. Additionally, I improved team coordination by implementing Agile practices, enabling faster issue resolution.
+2. Complex LMS Integration One of the most challenging tasks was integrating real-time credit checks into the Salesforce LMS. I ensured success by thoroughly testing APIs for reliability under various scenarios and collaborating with stakeholders to align technical and business goals.
+3. Automating Testing with Selenium I developed Python scripts using Selenium to automate end-to-end testing of web and mobile apps. This reduced testing time by 50%, allowing quicker deployment cycles and enhanced user experience through early bug detection.
+
+Tools and Certifications
+1. Impact of Google Certificate The Google Data Analytics Certificate strengthened my foundations in data cleaning, visualization, and statistical analysis. It complemented my academic learning and improved my ability to translate business problems into data-driven solutions.
+2. Creating Visualizations When using Tableau, I focus on clarity, accessibility, and storytelling. For instance, in a customer churn project, I created dashboards that segmented customers by churn risk, enabling stakeholders to prioritize retention strategies.
+
+Teamwork and Communication
+1. Cross-Functional Collaboration At Eduvanz, I worked with developers, analysts, and stakeholders during the Salesforce LMS integration. By organizing regular stand-ups and sharing progress updates, we maintained alignment, leading to a 40% operational improvement.
+2. Tailored Communication For technical stakeholders, I present detailed analytics reports, while for executives, I summarize key findings and actionable insights. For example, in the BCG project, I shared a concise executive summary with strategic recommendations.
+
+
+
+Problem-Solving and Decision-Making
+1. Large Dataset Analysis While working on Quantium’s transaction data, I used Python to clean, aggregate, and analyze millions of records. I identified underperforming stores by analyzing trends and provided recommendations for layout redesigns.
+2. Task Prioritization I use tools like JIRA and Agile frameworks to prioritize tasks based on impact and urgency. For example, while managing multiple QA projects, I ensured high-priority client-facing issues were resolved first to meet deadlines.
+
+Future Aspirations
+1. Next Role Expectations I’m looking for a role where I can leverage my technical expertise in Python, SQL, and machine learning to solve complex problems. I aim to contribute to data-driven strategies and gain exposure to innovative applications of data science.
+2. Leveraging Skills and Education My education and experience enable me to approach problems holistically—combining technical skills with strategic thinking. I’m eager to use these capabilities to deliver impactful insights and optimize processes for the organization.
+
+
+
+BCG X is the tech build and design unit of Boston Consulting Group, uniting over 3,000 technologists, designers, and entrepreneurs to deliver integrated, end-to-end solutions that maximize impact at scale. Leveraging deep industry knowledge and expertise in technology, AI, and design, BCG X enables clients to transform their organizations and rapidly build innovative products, services, and businesses.
+Boston Consulting Group
+
+I am motivated to apply to BCG X because of its commitment to integrating cutting-edge technology with strategic consulting to drive meaningful change. The opportunity to collaborate with diverse experts in a dynamic environment aligns with my passion for leveraging data science and technology to solve complex business challenges. I am eager to contribute to BCG X's mission of building transformative solutions that redefine industries and create lasting value.
+
+1. BCG Data Science Simulation The 85% accuracy was achieved by fine-tuning hyperparameters and feature engineering. A challenge I faced was handling class imbalance in churn data, which I resolved using SMOTE (Synthetic Minority Oversampling Technique).
+
+The last analytical technique I taught myself in Python was Principal Component Analysis (PCA), a dimensionality reduction technique. I chose PCA because I was working on a dataset with many features, and I wanted to reduce its complexity while retaining the most important information for analysis and modeling. This was particularly relevant in a customer churn project, where high-dimensional data can lead to overfitting and reduce model performance.
+To teach myself PCA, I began by studying online tutorials and Python documentation, focusing on how PCA works mathematically and its implementation using libraries like scikit-learn. I applied PCA on a dataset with numerous features to explore how it transforms data into principal components. By plotting explained variance ratios, I learned to determine the optimal number of components to retain. This hands-on practice helped me understand when and how to use PCA effectively
+
+One of the most complex and analytically challenging projects I worked on was a customer churn analysis for PowerCo, a utility company. The objective was to predict churn and identify actionable insights to address price sensitivity among customers. The project involved integrating three datasets: historical customer data, pricing data, and a churn indicator.
+Challenges and Approach
+The main challenges included:
+1. Handling Data Imbalance: The churn indicator was imbalanced, requiring techniques like SMOTE to ensure reliable model predictions.
+2. Feature Engineering: Crafting meaningful features from raw data, such as calculating price sensitivity scores and segmenting customers based on consumption patterns.
+3. Building Predictive Models: I used a Random Forest classifier, which required extensive hyperparameter tuning and feature importance analysis.
+Results and Impact
+The model achieved an accuracy of 85% and provided insights into key churn drivers, such as price increases and consumption volatility. The most significant insight was that customers in specific segments were highly price-sensitive, prompting PowerCo to consider targeted pricing strategies and personalized communication.
+Impact
+The solution enabled PowerCo to prioritize retention efforts effectively. By focusing on at-risk customers, the company reduced churn in a pilot group by 15% over the subsequent quarter, saving significant revenue.
+What I Enjoyed Most
+I enjoyed the iterative problem-solving process, particularly feature engineering and discovering patterns in customer behavior. It was rewarding to see how my work translated into actionable business strategies.
+What I Enjoyed Least
+Data integration was time-consuming due to inconsistencies and missing values. While it was a valuable learning experience, I found the cleaning process tedious compared to the more analytical aspects of the project.
+This project was a perfect example of combining technical and strategic skills to deliver impactful results.
+
+Languages
+1. Python: Proficient in data analysis, machine learning, automation, and visualization.
+2. SQL: Experienced in querying and managing relational databases.
+
+Python Packages
+1. Data Analysis: Pandas, NumPy
+2. Data Visualization: Matplotlib, Seaborn
+3. Machine Learning: Scikit-learn, XGBoost
+4. Exploratory Data Analysis (EDA): Statsmodels, Pyplot
+5. Dimensionality Reduction: Scikit-learn’s PCA module
+6. Data Cleaning: Openpyxl for Excel data handling
+
+Tools
+1. Data Visualization: Tableau, Power BI, Excel (advanced)
+2. Database Management: MySQL, PostgreSQL
+3. IDE: Jupyter Notebook, PyCharm, VS Code
+4. Project Management: JIRA, Agile tools
+5. Version Control: GitHub for collaboration and code versioning.
+
+One of the most memorable and successful teams I was a part of was during my tenure at Eduvanz Financing, where I led the QA team in integrating Salesforce LMS with Stride’s business module. The project improved operational efficiency by 40%, streamlined workflows, and contributed to faster and more accurate credit risk assessments.
+What Made It Successful
+1. Clear Communication: Regular team stand-ups and stakeholder meetings ensured alignment on goals, timelines, and deliverables.
+2. Collaboration: My team worked closely with developers, business analysts, and stakeholders, fostering a collaborative environment where everyone felt heard and valued.
+3. Defined Roles and Accountability: Each member understood their responsibilities, which minimized confusion and delays.
+4. Agility: We embraced Agile practices, enabling quick adaptation to changing requirements and iterative delivery.
+5. Shared Purpose: Everyone was committed to the project's success, driven by a shared understanding of its significance for the company.
+My Contribution
+I coordinated QA efforts, managed a team of four, and implemented automated testing using Selenium and Python, which reduced manual efforts by 50%. I also took the initiative to communicate progress to stakeholders and address any quality concerns promptly.
+Outcome
+The integration went live on time, leading to a 40% improvement in operational efficiency and an enhanced user experience for the customer-facing app. This success set a benchmark for future integrations within the company.
+What I Enjoyed
+I enjoyed the sense of teamwork and the opportunity to lead a motivated group toward a common goal. The satisfaction of seeing the tangible impact of our efforts on the business and users was immensely rewarding.
+Lessons Learned
+This experience reinforced the importance of communication, collaboration, and adaptability in achieving success as a team. It also highlighted the value of fostering an environment where everyone feels empowered to contribute.
+
+
+
