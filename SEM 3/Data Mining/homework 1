@@ -1,0 +1,43 @@
+Assignment Tasks
+Part 1: Data Exploration
+Load the dataset into Python (pandas).
+Show:
+Number of rows and columns
+Column names and data types
+Summary statistics for numeric features
+Count of missing values in each column
+show some visualization about the dataset 
+
+Part 2: Data Cleaning
+Duplicate Records
+Identify duplicate rows
+Remove them and report how many were deleted
+Invalid / Inconsistent Values
+Find categorical columns with typos or inconsistent values (e.g., "male", "Male", "M").
+Standardize them into a consistent format.
+
+  Part 3: Missing Data Handling
+Identify Missing Data
+Create a table showing percentage of missing values per column.
+Visualize missingness using a heatmap (seaborn or missingno).
+Handle Missing Numerical Features
+Replace missing values using mean, median, or interpolation (justify your choice).
+Handle Missing Categorical Features
+Replace missing values with mode or a special label (e.g., "Unknown").
+Advanced Option (bonus):
+Use KNN imputation or predictive imputation for filling missing values.
+
+Part 4: Verification
+Show the dataset before and after cleaning.
+Confirm no missing values remain.
+Briefly discuss how your cleaning choices may affect model performance.
+Deliverables
+Name the files homework1_ your name:
+A Jupyter Notebook with:
+Step-by-step code
+Explanations for each step
+A short report (1 page) summarizing:
+How missing values were identified
+Cleaning methods used
+Challenges and insights
+ 
