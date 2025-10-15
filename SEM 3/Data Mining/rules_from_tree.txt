@@ -1,0 +1,8 @@
+IF petal_length <= 2.450 THEN class = setosa (n=35)
+IF petal_length > 2.450 AND petal_width <= 1.550 AND petal_length <= 4.950 THEN class = versicolor (n=33)
+IF petal_length > 2.450 AND petal_width <= 1.550 AND petal_length > 4.950 THEN class = virginica (n=1)
+IF petal_length > 2.450 AND petal_width > 1.550 AND sepal_length <= 6.100 AND petal_width <= 1.850 AND petal_length <= 4.950 THEN class = versicolor (n=1)
+IF petal_length > 2.450 AND petal_width > 1.550 AND sepal_length <= 6.100 AND petal_width <= 1.850 AND petal_length > 4.950 AND sepal_width <= 2.850 THEN class = versicolor (n=1)
+IF petal_length > 2.450 AND petal_width > 1.550 AND sepal_length <= 6.100 AND petal_width <= 1.850 AND petal_length > 4.950 AND sepal_width > 2.850 THEN class = virginica (n=1)
+IF petal_length > 2.450 AND petal_width > 1.550 AND sepal_length <= 6.100 AND petal_width > 1.850 THEN class = virginica (n=5)
+IF petal_length > 2.450 AND petal_width > 1.550 AND sepal_length > 6.100 THEN class = virginica (n=28)
